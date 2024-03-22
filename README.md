@@ -1,0 +1,2 @@
+# azurecloudstorage
+python googlecolab
